@@ -1,4 +1,4 @@
-[![MasterHead](https://www.ipowersoftwares.com/wp-content/uploads/2015/12/ASP.net-AND-.NET-banner.png)](https://github.com/ibrahimkaram23)
+[![MasterHead](https://rijsat.com/wp-content/uploads/2020/01/asp.net-and-.net-banner.png)](https://github.com/ibrahimkaram23)
 
 <h1 align="center">Hi 👋, I'm Ibrahim Karam</h1>
 <h3 align="center">Senior .NET Developer | ERP & Systems Engineer | Co-Founder of Nileify</h3>
@@ -15,7 +15,7 @@
 
 - 💻 Senior Software Engineer specialized in **.NET & Enterprise Systems**
 - 🏢 Working at **Ministry of Planning and Economic Development**
-- 💼 .NET Developer at **GlobeMed**
+- 💼 Senior .NET Developer at **ITE Corp**
 - 🚀 Co-Founder of **Nileify Software House**
 - 🧾 Building **ERP, CRM, E-Learning & Medical Systems**
 - 📱 Integrating **Admin Dashboards with Flutter Mobile Apps**
